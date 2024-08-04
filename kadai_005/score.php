@@ -28,6 +28,7 @@
     $ave = $total / 10;
     echo "<br>";
     echo $ave;
+    
     ?>
     </p>
 
